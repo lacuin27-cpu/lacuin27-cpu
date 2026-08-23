@@ -1,6 +1,6 @@
 ### Hi, I'm Froie 👋
 
-Medical Laboratory Science Student that has a knack for coding and wants to make this his hobby!
+Medical Laboratory Science Student that has a knack for coding, an aspiring freelancer for money on the side.
 
 #### Languages I'm using:
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
